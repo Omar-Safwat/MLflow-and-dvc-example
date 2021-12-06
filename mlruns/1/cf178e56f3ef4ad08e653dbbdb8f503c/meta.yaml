@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Me/Codes/Jupyter%20Notebooks/ITI%20AI-Pro/Data%20Science%20In%20Production/MLflow-and-dvc-example/mlruns/1/cf178e56f3ef4ad08e653dbbdb8f503c/artifacts
+end_time: 1638810442129
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: cf178e56f3ef4ad08e653dbbdb8f503c
+run_uuid: cf178e56f3ef4ad08e653dbbdb8f503c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638810441807
+status: 3
+tags: []
+user_id: moham
